@@ -104,7 +104,7 @@ deutsch = {
 
 #FUNC FOR LOADING LANGUAGE SETTING AND RECORDS
 def loadFile(filename):
-    internal_dir = "_internal"
+    internal_dir = "data/settings"
     file_path = os.path.join(internal_dir, filename)
     
     # Ensure the directory exists
@@ -122,14 +122,10 @@ def loadFile(filename):
     else:
         return "[0,0,0,0,0]"
 
-# Example usage
-content = loadFile("somefile.txt")
-print(content)
-
 
 #FUNC FOR SAVING LANGUAGE SETTINGS AND RECORDS
 def saveFile(data, filename):
-    with open(rf"_internal/{filename}", "w") as file:
+    with open(rf"data/settings/{filename}", "w") as file:
         file.write(data)
 
 #INITIALIZING RECORDS AND LANGUAGE SETTINGS
