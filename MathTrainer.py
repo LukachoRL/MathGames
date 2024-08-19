@@ -20,7 +20,7 @@ switch = s.CTkSwitch
 frame = s.CTkFrame
 
 #ICON
-app.iconbitmap("MathTrainerIcon.ico")
+
 
 #LANGUAGES
 english = {
@@ -104,15 +104,27 @@ deutsch = {
 
 #FUNC FOR LOADING LANGUAGE SETTING AND RECORDS
 def loadFile(filename):
-    if os.path.exists(r"_internal"):
-        with open(rf"_internal/{filename}", "r") as file:
-            content = file.read() #Read file for content
+    internal_dir = "_internal"
+    file_path = os.path.join(internal_dir, filename)
+    
+    # Ensure the directory exists
+    if not os.path.exists(internal_dir):
+        os.makedirs(internal_dir)  # Create the directory if it doesn't exist
+    
+    # Check if the file exists and read it
+    if os.path.exists(file_path):
+        with open(file_path, "r") as file:
+            content = file.read()  # Read file content
             if content != '':
                 return content
     elif filename == "PrefLanguage.txt":
         return "English"
     else:
         return "[0,0,0,0,0]"
+
+# Example usage
+content = loadFile("somefile.txt")
+print(content)
 
 
 #FUNC FOR SAVING LANGUAGE SETTINGS AND RECORDS
