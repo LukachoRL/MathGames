@@ -1,1 +1,17 @@
-Test
+CHANGELOG
+
+This is the start of the changelog for MathHubLauncher.
+Every update concerning games and the launcher itself
+will be shown here. If you are curious what changed after
+the latest update, look here!
+
+I hope you are having fun with my games. I am constantly
+trying to improve my program as good as I can. However, if
+you discover a bug, please let me know! 
+
+Instagram: luki.hsl
+
+Newest Launcher Version: 1.0 Stable
+Newest Games Version:
+  -> Mathtrainer: Version 1.4
+  -> Mathfinder: Not yet created!
