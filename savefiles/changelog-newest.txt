@@ -29,5 +29,5 @@ and files required (this includes the directory for update logs,
 games, and update files as well as the launcher updater itself.
 Updating the launcher also deletes the old file and installs the 
 new launcher accordingly.
-Hence, the creation and deletion process causes AntiVirus-Software
-to block the file.
+Hence, the creation and deletion process causes AntiVirus
+Software to block the file.
