@@ -20,14 +20,14 @@ Important note:
 
 It can happen that your Computer tries to stop the launcher
 from being downloaded or executed. This is because files
-created like mine look like Malware for the PC. However, 
+created like mine look like malware for the PC. However, 
 if you want the launcher and the games to properly run,
 make sure to grant the file every permission it needs.
 Note that the launcher (on initial setup or open in a new
 directory) automatically creates all the necessary folders
 and files required (this includes the directory for update 
 logs, games, and update files as well as the launcher 
-updater itself. Updating the launcher also deletes the 
+updater itself). Updating the launcher also deletes the 
 old file and installs the new launcher accordingly.
-Hence, the creation and deletion process causes AntiVirus
+Hence, the creation and deletion process causes Antivirus
 Software to block the file.
