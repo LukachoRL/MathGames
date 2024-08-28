@@ -1,3 +1,37 @@
+GAMEINFOS
+MathTrainer
+
+Mathtrainer is an app/game designed to strengthen your
+mental arithmetic skills in a gamified way by earning
+points with every correct answer and ranks + ranking.
+Goal is to calculate as many numbers in form of
+number a + (operator +,-,/,*) + number b in a certain
+amount of time (varying depending on the difficulty
+level and chosen operators in the settings menu).
+Numbers can vary between 1 and 10000 depending on the
+difficulty:
+Easy: +,-  -> 1 to 20 || *,/  -> 1 to 10
+  2 Minutes of Starting time
+Normal: +,-  -> 20 to 100 || *,/  -> 10 to 20
+  3 Minutes of Starting time
+Hard: +,-  -> 100 to 1000 || *,/  -> 20 to 30
+  4 Minutes of Starting time
+Extreme: +,-  -> 1000 to 10000 || *,/  -> 30 to 40
+  5 Minutes of Starting time
+
+MathFinder
+
+In this app/game, the goal is to solve equations in a
+certain amount of time. The eqations are built like this:
+a + x = b OR x + a = b OR a + b = x
+There are 16 Buttons in tile shape which each contain a
+number. One of them is the solution. The button with the
+answer must be clicked before the yellow time bar fully
+depletes, or the game ends. The more equations you solve,
+the faster depletion of the bar is. The game ends once
+the bar reaches 0.
+
+
 CHANGELOG
 
 This is the start of the changelog for MathHubLauncher.
@@ -14,7 +48,7 @@ Instagram: luki.hsl
 Newest Launcher Version: 1.0 Stable
 Newest Games Version:
   -> Mathtrainer: Version 1.4
-  -> Mathfinder: Not yet created!
+  -> Mathfinder: 1.0 (Prototype)!
 
 Important note:
 
