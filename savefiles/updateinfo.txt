@@ -1,1 +1,33 @@
-No update available yet :(
+Launcher Update Version 1.1:
+
+-> Link added to online database (view version window
+   in launcher (clickable link)
+-> Added support for MathFinder 1.0 (Prototype)
+
+MathFinder Version 1.0PT now available!
+
+Since this game is still in production, only basic
+features are available at the moment. This will change
+soon. The app/game will support additional modes soon.
+
+
+
+For further information, check the changelog window in
+the launcher to find out about the newest changes as
+well as explanations for both MathTrainer and
+MathFinder.
+
+
+Language Translation is only available for MathTrainer
+at the moment. I am working on a universal solution for
+this so the language is managed by the launcher itself
+in the future.
+
+Keep your eyes open for future updates, and stay tuned!
+
+Lukacho
+
+
+
+(For the update, press the "Update" button and wait a
+few seconds, if you don't want to update, press cancel.)  
