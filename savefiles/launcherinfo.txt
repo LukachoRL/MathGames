@@ -8,16 +8,9 @@ Goal is to calculate as many numbers in form of
 number a + (operator +,-,/,*) + number b in a certain
 amount of time (varying depending on the difficulty
 level and chosen operators in the settings menu).
-Numbers can vary between 1 and 10000 depending on the
-difficulty:
-Easy: +,-  -> 1 to 20 || *,/  -> 1 to 10
-  2 Minutes of Starting time
-Normal: +,-  -> 20 to 100 || *,/  -> 10 to 20
-  3 Minutes of Starting time
-Hard: +,-  -> 100 to 1000 || *,/  -> 20 to 30
-  4 Minutes of Starting time
-Extreme: +,-  -> 1000 to 10000 || *,/  -> 30 to 40
-  5 Minutes of Starting time
+MathTrainer uses a slider to assess which number range
+is included in the calculations.
+
 
 MathFinder
 
