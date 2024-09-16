@@ -38,11 +38,6 @@ you discover a bug, please let me know!
 
 Instagram: luki.hsl
 
-Newest Launcher Version: 1.0 Stable
-Newest Games Version:
-  -> Mathtrainer: Version 1.4
-  -> Mathfinder: 1.0 (Prototype)!
-
 Important note:
 
 It can happen that your Computer tries to stop the launcher

@@ -1,3 +1,37 @@
+Launcher Update Version 1.2
+
+-> Added Options Button for setting the language
+-> Language updates for both MathTrainer and MathFinder
+
+MathFinder is finally out of early access!
+
+Some finetuning still needs to be done, but overall,
+everything is done. Settings are now available (still
+pretty limited options still though) and language
+support is now granted.
+
+Language Settings have been moved from MathTrainer to
+the Launcher. Every game within the launcher automatically
+changes the language according to your settings.
+
+
+
+
+For further information, check the changelog window in
+the launcher to find out about the newest changes as
+well as explanations for both MathTrainer and
+MathFinder.
+
+
+Keep your eyes open for future updates, and stay tuned!
+
+Lukacho
+
+
+(Older Updates)
+
+
+
 Launcher Update Version 1.1:
 
 -> Link added to online database (view version window
